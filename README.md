@@ -1,2 +1,7 @@
 # system-design
-System Design essential
+System Design Essential
+
+Understand System Properties 
+## Latency
+## Throughput
+## Storage
